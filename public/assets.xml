@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Peluches Snorlax Gigante</name>
+    <price>45.50</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png</imageUrl>
+    <category>Peluches</category>
+    <description>Suave peluche de 50cm, perfecto para descansar después de una batalla.</description>
+    <inStock>true</inStock>
+  </product>
+
+  <product>
+    <id>2</id>
+    <name>Pikachu Edición Clásica</name>
+    <price>25.99</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png</imageUrl>
+    <category>Peluches</category>
+    <description>El compañero eléctrico más famoso en una versión de felpa premium.</description>
+    <inStock>true</inStock>
+  </product>
+
+  <product>
+    <id>3</id>
+    <name>Figura Charizard Articulada</name>
+    <price>59.90</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png</imageUrl>
+    <category>Figuras</category>
+    <description>Figura de acción detallada con puntos de articulación en alas y cola.</description>
+    <inStock>true</inStock>
+  </product>
+
+  <product>
+    <id>4</id>
+    <name>Mewtwo Estatua </name>
+    <price>85.00</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png</imageUrl>
+    <category>Figuras</category>
+    <description>Estatua de colección de alta calidad con base de efecto psíquico.</description>
+    <inStock>false</inStock>
+  </product>
+
+  <product>
+    <id>5</id>
+    <name>Peluche Eevee Suave</name>
+    <price>22.80</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png</imageUrl>
+    <category>Peluches</category>
+    <description>Peluche tierno con todas sus extremidades reforzadas. ¡Muy abrazable!</description>
+    <inStock>true</inStock>
+  </product>
+
+  <product>
+    <id>6</id>
+    <name>Figura Gengar </name>
+    <price>32.75</price>
+    <imageUrl>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png</imageUrl>
+    <category>Figuras</category>
+    <description>Figura con acabado mate que captura la esencia traviesa de Gengar.</description>
+    <inStock>true</inStock>
+  </product>
+</products>
