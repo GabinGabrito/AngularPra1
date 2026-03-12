@@ -7,3 +7,24 @@ p { margin: 0; color: #6b7280; }
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 16px;
 }
+
+/* Layout: catalog left, cart right */
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.catalog-section {
+  flex: 1 1 auto;
+}
+
+.cart-section {
+  width: 320px; /* fixed cart width */
+}
+
+/* Make cart sticky so it remains visible while scrolling */
+.cart-section > app-carrito {
+  position: sticky;
+  top: 16px;
+}
